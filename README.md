@@ -5,4 +5,4 @@ Our goal is to leverage the power of IoT technologies to develop a compact hydro
 ![Schematic diagram for the project](/assets/images/Schematic.png)
 
 ## Circuit Diagram
-![circuit diagram for the ATMega 2560, ESP8266 and the sensors](/assets/images/circuit diagram.png
+![circuit diagram for the ATMega 2560, ESP8266 and the sensors](/assets/images/circuit diagram.png)
